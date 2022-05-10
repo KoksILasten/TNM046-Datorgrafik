@@ -1,0 +1,5 @@
+﻿  GLprimer.cpp
+C:\Programmering\TNM046 Datorgrafik\Lab4\GLprimer\GLprimer.cpp(370,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Programmering\TNM046 Datorgrafik\Lab4\GLprimer\GLprimer.cpp(372,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Programmering\TNM046 Datorgrafik\Lab4\GLprimer\GLprimer.cpp(373,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  tnm046-labs.vcxproj -> C:\Programmering\TNM046 Datorgrafik\Lab4\GLBuild\Debug\tnm046-labs.exe

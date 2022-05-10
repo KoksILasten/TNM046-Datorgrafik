@@ -1,0 +1,12 @@
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/CMakeFiles/tnm046-labs.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/CMakeFiles/INSTALL.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/CMakeFiles/ALL_BUILD.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/CMakeFiles/ZERO_CHECK.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glfw-3.3.2/CMakeFiles/uninstall.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glfw-3.3.2/CMakeFiles/INSTALL.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glfw-3.3.2/src/CMakeFiles/glfw.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glfw-3.3.2/src/CMakeFiles/INSTALL.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glew/CMakeFiles/GLEW.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glew/CMakeFiles/INSTALL.dir
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/glew/CMakeFiles/ALL_BUILD.dir

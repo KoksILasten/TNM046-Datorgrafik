@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLBuild/CMakeFiles/3.21.2/CMakeCCompiler.cmake
+C:/Programmering/TNM046 Datorgrafik/Lab4/GLprimer/glew/CMakeLists.txt

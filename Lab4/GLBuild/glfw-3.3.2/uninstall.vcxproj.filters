@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Programmering\TNM046 Datorgrafik\Lab4\GLBuild\CMakeFiles\33d34a3f2aea70daf9dacfca9fbe3e48\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Programmering\TNM046 Datorgrafik\Lab4\GLprimer\glfw-3.3.2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Programmering\TNM046 Datorgrafik\Lab4\GLBuild\glfw-3.3.2\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{94E59375-B2CB-3F1E-B415-3E3BD4D0E0B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

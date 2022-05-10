@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\GLprimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Rotator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\TriangleSoup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Rotator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\TriangleSoup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\Utilities.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Programmering\TNM046 Datorgrafik\Lab5\GLprimer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9211DFA1-CDAC-30AF-953B-93AF52F68EAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B4BA7D18-60D3-3E30-A4B5-FA412C3C3A40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

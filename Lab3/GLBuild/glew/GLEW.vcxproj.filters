@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Programmering\TNM046 Datorgrafik\Lab3\GLprimer\glew\src\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab3\GLprimer\glew\include\GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab3\GLprimer\glew\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab3\GLprimer\glew\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Programmering\TNM046 Datorgrafik\Lab3\GLprimer\glew\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Programmering\TNM046 Datorgrafik\Lab3\GLprimer\glew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C0DF6A17-66F4-3A64-A4C4-BC1829C30C1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{022E1017-003F-3939-9399-49BE2B510552}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

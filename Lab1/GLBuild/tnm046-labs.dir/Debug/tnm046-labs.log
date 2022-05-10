@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Programmering/TNM046 Datorgrafik/Lab1/GLprimer/CMakeLists.txt
+  GLprimer.cpp
+  Rotator.cpp
+  Shader.cpp
+  Texture.cpp
+  TriangleSoup.cpp
+  Utilities.cpp
+  Generating Code...
+  tnm046-labs.vcxproj -> C:\Programmering\TNM046 Datorgrafik\Lab1\GLBuild\Debug\tnm046-labs.exe
